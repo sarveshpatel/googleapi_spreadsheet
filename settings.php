@@ -1,12 +1,12 @@
 <?php
 
 /* Google App Client Id */
-define('CLIENT_ID', '47071597710-66v98rms1tfpsrggrtg70o2go17n7tdu.apps.googleusercontent.com');
+define('CLIENT_ID', 'xxxx');
 
 /* Google App Client Secret */
-define('CLIENT_SECRET', 'VkPnd0dYAeTQCFNb9bGJaqBA');
+define('CLIENT_SECRET', 'VkPnxxxx');
 
 /* Google App Redirect Url */
-define('CLIENT_REDIRECT_URL', 'http://localhost/60/google-login.php');
+define('CLIENT_REDIRECT_URL', 'redirecturlurl');
 
 ?>
